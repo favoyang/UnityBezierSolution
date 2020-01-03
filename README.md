@@ -1,8 +1,12 @@
 # Unity Bezier Solution
 
+[![openupm](https://img.shields.io/npm/v/net.yasirkula.unitybeziersolution?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/net.yasirkula.unitybeziersolution/)
+
 ![intro](Images/1.png)
 
 **Available on Asset Store:** https://www.assetstore.unity3d.com/en/#!/content/113074
+
+**Available on OpenUPM (community support):** https://openupm.com/packages/net.yasirkula.unitybeziersolution/
 
 **Forum Thread:** https://forum.unity.com/threads/bezier-solution-open-source.440742/
 
