@@ -4,7 +4,7 @@
 
 ![intro](Images/1.png)
 
-**Available on Asset Store:** https://www.assetstore.unity3d.com/en/#!/content/113074
+**Available on Asset Store:** https://assetstore.unity.com/packages/tools/level-design/bezier-solution-113074
 
 **Available on OpenUPM (community support):** https://openupm.com/packages/net.yasirkula.unitybeziersolution/
 
