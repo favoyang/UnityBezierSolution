@@ -1,3 +1,6 @@
+Notice: this repositry is an example repository for [How to maintain UPM package part 3](https://medium.com/openupm/how-to-maintain-upm-package-part-3-2d08294269ad) article. The [original repository](https://github.com/yasirkula/UnityBezierSolution) already has UPM support.
+
+
 # Unity Bezier Solution
 
 [![openupm](https://img.shields.io/npm/v/net.yasirkula.unitybeziersolution?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/net.yasirkula.unitybeziersolution/)
